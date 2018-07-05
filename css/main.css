@@ -1403,6 +1403,13 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 		min-height: 650px;
 		height: 100%;
 	}
+
+	#ourwork .row {
+        margin: 0;
+        max-width: 100%;
+    }
+
+
 	ul.slides{
 		min-height: 600px;
 		height: 100%;
@@ -1442,4 +1449,15 @@ ul.portfolioContainer li:hover span.hoverBox .linKed{
 		top:0px;
 		
 	}
+	ul.portfolioContainer li .lightCon {
+        display: block;
+        margin: 0px;
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 15px;
+    }
+    .expertiesdesc {
+        padding: 0 15px;
+        margin-bottom: 50px;
+    }
 }
